@@ -17,6 +17,7 @@ namespace Tyuiu.FalinGS.Sprint5.Task0.V6.Lib
             double z = (3 / (Math.Sqrt((Math.Pow(3, 2) + 3))));
             z = Math.Round(z, 3);
 
+
             File.WriteAllText(path, Convert.ToString(z));
             return path;
         }
