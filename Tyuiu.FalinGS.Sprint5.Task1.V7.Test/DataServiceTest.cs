@@ -4,7 +4,7 @@ using System.IO;
 
 using Tyuiu.FalinGS.Sprint5.Task1.V7.Lib;
 
-namespace Tyuiu.FalinGS.Sprint5.Task0.V6.Test
+namespace Tyuiu.FalinGS.Sprint5.Task1.V7.Test
 {
     [TestClass]
     public class DataServiceTest
